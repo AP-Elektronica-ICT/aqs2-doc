@@ -36,6 +36,10 @@ The Port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in de haven. Ze 
 | DHT22    | N.V.T              | <ul><li>Sensor data (temperatuur)</li> <li>Sensor data (vochtigheid)</li></ul> |
 | RFM95W   | Sensor data (alle) | Sensor data (alle                                   |
 ##### State diagram
+###### ATSAMD21
+![Statediagram ATSAMD21](img/Statediagram_ATSAMD21.jpg)
+###### RFM95W
+![Statediagram RFM95W](img/Statediagram_RFM95W.jpg)
 ##### Flowchart
 ![Flowchart](img/Flowchart.jpg)
 ##### Mockup
