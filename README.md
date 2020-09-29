@@ -1,6 +1,8 @@
 # Analyse Document
 
 ## Probleem stelling
+The port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in en rond de haven. Antwerpen heeft al vele maatregelen genomen om de luchtkwaliteit te doen verbeteren en de haven wilt nu opsporen of zij hun steentje niet kunnen bijdragen. Hiervoor moeten ze eerst bekijken of dat mogelijk is en de luchtkwaliteit in kaart brengen. Ze weten dat ze dit door sensoren te plaatsen op verscheidene locaties kan lukken en dat een LoRaWAN netwerk hiervoor een perfecte hulp kan zijn. Dit hebben ze dus al opgezet over de hele haven, maar sensoren zijn er nog niet. 
+
 The Port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in de haven. Ze hebben net een LoRaWAN netwerk uitgerold overheen de haven, dus kunnen we adhv sensoren de luchtkwaliteit meten. Met deze waarden willen ze de luchtkwaliteit over heel de haven in kaart brengen.
 ### Analyse
 #### Abstract
