@@ -29,7 +29,6 @@ The port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in en rond de ha
 | ATSAMD21G | Genoeg pinnen om eventueel uitbreiding te ondersteunen                                                        |
 | SDS011    | <ul><li>Geen soldeerwerk</li> <li>Plug-and-play</li> <li>Libraries om waarden uit te lezen</li></ul>                                            |
 | HIH8120   | <ul><li>I²C communicatie</li> <li>Enige communicatie pinnen op de SAMD21 die over zijn in samenwerking met de andere sensoren</li></ul> |
-| ATSAMD21E | Te weinig pinnen voor eventuele uitbreiding                                                                   |
 | RFM95W    |<ul><li>SPI connectie</li><li>Compact</li><li>beschikbaar in het labo</li><ul>                                                             |
 | L7805     | Voltage regulator is sterk genoeg om de sensoren te voeden.                                                   |
 | LM317     | Voltage regulator is sterk genoeg om de ATSAMD21 en de RFM95W te voeden.                                      |
