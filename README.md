@@ -20,8 +20,8 @@ The port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in en rond de ha
 |                        | FCPU         |       |             | 48MHz |
 | SDS011                 | Werkspanning | 4,7V  | 5V          | 5,3V  |
 |                        | Stroom       | <4mA  |             | 80mA  |
-| Zonnepaneel            | Werkspanning |       |             |       |
-|                        | Stroom       |       |             |       |
+| Zonnepaneel            | Werkspanning |       | Ongekend    |       |
+|                        | Stroom       |       | Ongekend    |       |
 ##### Argumentatie en alternatieven tabel
 ###### Argumentatie
 | Blok      | Pro's/contra's                                                                                                |
