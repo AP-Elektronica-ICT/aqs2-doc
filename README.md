@@ -17,7 +17,7 @@ The port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in en rond de ha
 |                        | Capaciteit   |       | 2850mAh     |       |
 |                        | Stroom       |       | 28,50A(10C) |       |
 | ATSAMD21               | Werkspanning | 1,62V |             | 3,63V |
-|                        | FCPU         |       |             | 48MHz |
+|                        | Fcpu         |       |             | 48MHz |
 | SDS011                 | Werkspanning | 4,7V  | 5V          | 5,3V  |
 |                        | Stroom       | <4mA  |             | 80mA  |
 | Zonnepaneel            | Werkspanning |       | Ongekend    |       |
@@ -26,7 +26,7 @@ The port of Antwerp is zeer geïntresseerd in de luchtkwaliteit in en rond de ha
 ###### Argumentatie
 | Blok      | Pro's/contra's                                                                                                |
 |-----------|---------------------------------------------------------------------------------------------------------------|
-| ATSAMD21G | genoeg pinnen om eventueel uitbreiding te ondersteunen                                                        |
+| ATSAMD21G | Genoeg pinnen om eventueel uitbreiding te ondersteunen                                                        |
 | SDS011    | <ul><li>Geen soldeerwerk</li> <li>Plug-and-play</li> <li>Libraries om waarden uit te lezen</li></ul>                                            |
 | HIH8120   | <ul><li>I²C communicatie</li> <li>Enige communicatie pinnen op de SAMD21 die over zijn in samenwerking met de andere sensoren</li></ul> |
 | ATSAMD21E | Te weinig pinnen voor eventuele uitbreiding                                                                   |
