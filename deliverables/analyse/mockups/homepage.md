@@ -1,2 +1,2 @@
 # Homepagina
-![Mockup Homepage](img/HomePage.jpg)
+![Mockup Homepage](../../../img/HomePage.jpg)

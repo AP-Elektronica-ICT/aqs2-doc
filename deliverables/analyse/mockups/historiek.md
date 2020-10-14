@@ -1,2 +1,2 @@
 # Historiek
-![Mockup History page](img/HistoryPage.jpg)
+![Mockup History page](../../../img/HistoryPage.jpg)
