@@ -1,8 +1,9 @@
 | Component             | Aantal |
 |-----------------------|--------|
-| Header male 2x1       | 6      |
 | Header female 2x1     | 1      |
+| Header male 2x1       | 6      |
 | Header female 4x1     | 1      |
+| Header male 4x1       | 1      |
 | Header female 5x1     | 2      |
 | Header male 5x1       | 3      |
 | L7805                 | 1      |
@@ -10,6 +11,7 @@
 | Batterij beugel       | 4      |
 | Condensator 22pF      | 2      |
 | Condensator 0,1µF     | 5      |
+| Condensator 0,22µF    | 1      |
 | Condensator 1µF       | 1      |
 | Condensator 10µF      | 1      |
 | Condensator 100µF     | 1      |
