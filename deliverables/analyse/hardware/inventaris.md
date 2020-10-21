@@ -12,8 +12,8 @@
 | Condensator 22pF      | 2      |
 | Condensator 0,1µF     | 5      |
 | Condensator 0,22µF    | 1      |
-| Condensator 1µF       | 1      |
-| Condensator 10µF      | 1      |
+| Condensator 1µF       | 2      |
+| Condensator 10µF      | 2      |
 | Condensator 100µF     | 1      |
 | Weerstand 330ohm      | 1      |
 | Weerstand 560ohm      | 1      |
