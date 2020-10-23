@@ -1,9 +1,9 @@
 | Component             | Aantal |
 |-----------------------|--------|
-| Header female 2x1     | 1      |
 | Header male 2x1       | 6      |
 | Header female 4x1     | 1      |
 | Header male 4x1       | 1      |
+| Header female 4x2     | 1      |
 | Header female 5x1     | 2      |
 | Header male 5x1       | 3      |
 | L7805                 | 1      |
