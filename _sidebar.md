@@ -1,4 +1,4 @@
-* Analyse Document
+* [Analyse Document](README.md)
     * [Teamleden](/deliverables/teamleden.md)
     * [Probleemstelling](/deliverables/probleemstelling.md)
     * Analyse
@@ -16,6 +16,5 @@
             * [Flowchart](deliverables/analyse/software/flowchart.md)
             * Mockups
                 * [Homepagina](deliverables/analyse/mockups/homepage.md)
-                * [Historiek](deliverables/analyse/mockups/historiek.md)
         * [Bronnen](deliverables/bronnen.md)
             
