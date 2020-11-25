@@ -17,4 +17,5 @@
             * Mockups
                 * [Homepagina](deliverables/analyse/mockups/homepage.md)
         * [Bronnen](deliverables/bronnen.md)
+        * [Presentaties](deliverables/presentaties.md)
             
