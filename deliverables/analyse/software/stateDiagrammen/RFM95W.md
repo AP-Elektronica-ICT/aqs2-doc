@@ -1,2 +1,2 @@
-# RFM95W
-![Statediagram RFM95W](../../../../../img/Statediagram_RFM95W.jpg)
+# RN2483
+![Statediagram RN2483](../../../../../img/Statediagram_RN2483.jpg)
