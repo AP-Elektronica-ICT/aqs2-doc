@@ -12,10 +12,9 @@
             * [Data In- en Outputs](deliverables/analyse/software/dataIn_Out.md)
             * State Diagrammen
                 * [ATSAMD21](deliverables/analyse/software/stateDiagrammen/ATSAMD21.md)
-                * [RN2483](deliverables/analyse/software/stateDiagrammen/RFM95W.md)
+                * [RN2483](deliverables/analyse/software/stateDiagrammen/RN2483.md)
             * [Flowchart](deliverables/analyse/software/flowchart.md)
-            * Mockups
-                * [Homepagina](deliverables/analyse/mockups/homepage.md)
+            * [Front-End Node-Red](deliverables/front-end.md)
         * [Bronnen](deliverables/bronnen.md)
         * [Presentaties](deliverables/presentaties.md)
             
