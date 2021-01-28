@@ -1,2 +1,2 @@
 # Flowchart
-![Flowchart](../../../../img/Flowchart.jpg)
+![Flowchart](../../../img/Flowchart.JPG)

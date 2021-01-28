@@ -1,2 +1,2 @@
 # Blokdiagram
-![Blokdiagram](../../../../img/HW_Blokdiagram.jpg)
+![Blokdiagram](../../../img/HW_Blokdiagram.png)
